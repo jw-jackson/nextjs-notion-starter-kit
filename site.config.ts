@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'blog-jackson',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'blog.jacksonwang28.top',
+  author: 'Jackson Wang',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  //twitter: 'transitive_bs',
   github: 'jw-jackson',
-  linkedin: 'fisch2',
+  //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
